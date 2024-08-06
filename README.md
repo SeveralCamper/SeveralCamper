@@ -1,5 +1,7 @@
 <h3 align="left">🔥 Всем пламенный привет</h3>
 
+---
+
 * Меня зовут Альхимович Михаил Валерьевич, 22 года, начинающий программист из России, город Новосибирск. 
 
 * Тружусь в компании "ПРОТЕЙ-ЛАБ" на должности малдшего разработчика в отеле backend-разработки.
@@ -9,6 +11,8 @@
 * Занимаюсь спортом и играю на гиатре 🗿
 
 <h3 align="left">💻 Мои метрики Github:</h3>
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SeveralCamper&theme=dark&locale=ru)](https://git.io/streak-stats)
 
